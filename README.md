@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jalonsogo Staff Product Designer at 🐳 Docker
-- 👀 I’m interested in UX CLI and complex problems solving
-- 🌱 I’m currently "learning" GO 🤯
+- 👋 Hi, I’m @jalonsogo Staff Design Technologist at 🐳 Docker working in AI Features and CLI
+- 👀 I’m interested in AI and complex problem solving
+- 🌱 I’m currently "learning" GO and Python 🤯 (with the help of AI)
 - 💞️ I’m looking to collaborate on anything related with CLI, AI,...
-- 📫 How to reach me: Just run ``docker summon javier``
+- 📫 How to reach me: Just run ``docker summon javier`` (please, without -rm)
